@@ -99,11 +99,11 @@ input, select, textarea {
 	}
 	@keyframes bgcolor {
 		0% {
-			background-color: #f1949c
+			background-color: #b3dbd3
 		}
 	
 		30% {
-			background-color: #b37a81
+			background-color: #f4d6db
 		}
 	
 		60% {
